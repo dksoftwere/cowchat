@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029216070406",
+    "project_id": "cowchat-a4bf5",
+    "storage_bucket": "cowchat-a4bf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029216070406:android:d691ef80ecf46e24af0c87",
+        "android_client_info": {
+          "package_name": "com.codingofworld.cowchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029216070406-g0ntq6fkhtfqpuhdko9l30l054rrko70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingofworld.cowchat",
+            "certificate_hash": "114dbc4fc6351a275049de3228d71c66827ade97"
+          }
+        },
+        {
+          "client_id": "1029216070406-7r05210shpb6b551rdb856aoctanaapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDESMD33mIIVTHF-I6xOKPOGcMFi_lbB-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029216070406-7r05210shpb6b551rdb856aoctanaapj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_id" translatable="false">com.codingofworld.cowchat</string>
+    <string name="facebook_app_id">4765382746883290</string>
+    <string name="facebook_client_token">d404142fd7bdf37a77607d0da2a22620</string>
+
+</resources>
